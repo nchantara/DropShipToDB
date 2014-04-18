@@ -4,6 +4,11 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="lib/hsqldb.jar"/>
 	<classpathentry kind="lib" path="lib/slf4j-api-1.7.6.jar"/>
-	<classpathentry kind="lib" path="lib/slf4j-simple-1.7.6.jar"/>
+	<classpathentry kind="lib" path="lib/simpleorm-dataset.jar"/>
+	<classpathentry kind="lib" path="lib/simpleorm-sessionJdbc.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/AmazonMWSToDB"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/logback-classic-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/logback-core-1.1.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
