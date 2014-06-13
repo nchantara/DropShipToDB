@@ -1,0 +1,482 @@
+category_id,parent_id,category
+1,,Automotive
+2,,"Apparel &amp; Accessories"
+3,,"Home &amp; Garden"
+4,,"Party &amp; Celebration"
+5,,"Arts &amp; Crafts"
+6,,"Toys &amp; Games"
+7,,"Tools &amp; Hardware"
+8,,"Health &amp; Beauty"
+9,,"Baby &amp; Toddler"
+10,,Pets
+11,,"Office &amp; Electronics"
+12,,"Sports &amp; Fitness"
+13,,Mature
+14,,"Retail Displays"
+15,,Uncategorized
+20,2,Apparel
+21,2,"Fashion Accessories"
+22,2,Jewelry
+23,2,"Key Chains"
+30,3,"Kitchen &amp; Dining"
+31,3,"Household Supplies"
+32,3,"Home Decor"
+33,3,"Bed &amp; Bath"
+34,3,"Photo Storage &amp; Display"
+35,3,"Candles &amp; Scents"
+36,3,Lighting
+37,3,"Outdoor Living"
+40,4,"Party Supplies"
+41,4,"Gift Wrapping"
+42,4,Seasonal
+43,4,Religious
+45,13,Erotic
+46,14,"In And Out Displays"
+47,14,"Store Fixtures"
+50,5,Crafts
+51,5,Scrapbooking
+52,5,"Sewing &amp; Needlecrafts"
+55,11,"School &amp; Office Supplies"
+56,11,Electronics
+60,6,Toys
+61,6,Games
+65,9,Baby
+66,12,"Sporting Goods"
+70,7,Tools
+71,7,Hardware
+75,1,"Automotive Supplies"
+80,8,"Personal Care"
+81,8,"Hair Care"
+82,8,Cosmetics
+83,8,"Health Care"
+84,8,"Vision Care"
+85,10,"Pet Supplies"
+99,15,"Internal Use"
+2000,20,Shoes
+2001,20,"Athletic Sportswear"
+2002,20,Shoelaces
+2003,20,"Shoe Accessories"
+2004,20,"Winter Apparel"
+2005,20,"Backpacks &amp; Duffel Bags"
+2006,20,Socks
+2007,20,"Belts &amp; Belt Buckles"
+2008,20,Undergarments
+2009,20,Hats
+2010,20,"Rain Gear"
+2011,20,Ties
+2012,20,Pants
+2013,20,Shirts
+2014,20,Outerwear
+2100,21,"Wallets &amp; Coin Purses"
+2101,21,Handbags
+2102,21,Umbrellas
+2103,21,"Purse Charms"
+2200,22,"Fashion Pins"
+2201,22,Necklaces
+2202,22,Watches
+2203,22,Earrings
+2204,22,Bracelets
+2205,22,Rings
+2206,22,Anklets
+2300,23,"Novelty Key Chains"
+2301,23,"Utility Key Chains"
+3000,30,"Kitchen Tools &amp; Utensils"
+3001,30,"Food Storage"
+3002,30,"Kitchen Organization"
+3003,30,Bakeware
+3004,30,"Refrigerator Magnets"
+3005,30,Serveware
+3006,30,Cutlery
+3007,30,"Tablecloths, Linens &amp; Doilies"
+3008,30,Barware
+3009,30,"Portable Food &amp; Beverage"
+3010,30,Drinkware
+3011,30,"Baking Supplies"
+3012,30,Dinnerware
+3013,30,Flatware
+3014,30,"Condiment Dispensers"
+3015,30,"Kitchen Appliance Accessories"
+3016,30,"Kitchen Measuring Tools"
+3017,30,"Hot Pads &amp; Trivets"
+3018,30,Cookware
+3019,30,"Coffee &amp; Tea"
+3100,31,"Sponges &amp; Scouring Pads"
+3101,31,"Storage &amp; Organization"
+3102,31,"Hooks &amp; Hook Racks"
+3103,31,"Laundry Supplies"
+3104,31,"Scrub Brushes"
+3105,31,"Travel &amp; Luggage Accessories"
+3106,31,Dusters
+3107,31,"Cleaning Cloths"
+3108,31,"Pest Control"
+3109,31,Hangers
+3110,31,"Spray Bottles"
+3111,31,Clothespins
+3112,31,"Trash Bags"
+3113,31,"Furniture &amp; Floor Protectors"
+3114,31,"Lint Removers"
+3115,31,"Dust Pans"
+3116,31,"Window Squeegees"
+3117,31,"Cleaning Wipes"
+3118,31,"Brooms &amp; Mops"
+3119,31,"Trash Containers"
+3120,31,"Buckets &amp; Basins"
+3121,31,"Cleaning Gloves"
+3122,31,Thermometers
+3123,31,Vacuuming
+3200,32,"Decorative Accents"
+3201,32,"Window Clings"
+3202,32,"Wall Decor"
+3203,32,Vases
+3204,32,"Decorative Stones"
+3205,32,"Decorative Dishes"
+3206,32,"Ash Trays"
+3207,32,"Keepsake Boxes"
+3208,32,"Artificial Plants &amp; Flowers"
+3209,32,Clocks
+3210,32,"Piggy Banks &amp; Money Jars"
+3211,32,"Flags &amp; Banners"
+3212,32,Baskets
+3213,32,"Deco Balls"
+3214,32,Rugs
+3215,32,"Wall Mirrors"
+3216,32,Bookends
+3217,32,Fountains
+3300,33,Bedding
+3301,33,"Toilet Brushes &amp; Cleaning"
+3302,33,"Bath Caddies"
+3303,33,"Bath Mats, Rugs &amp; Grips"
+3304,33,"Soap Dishes"
+3305,33,"Shower Curtains &amp; Rings"
+3306,33,"Toilet Paper &amp; Holders"
+3307,33,"Toothbrush Holders"
+3308,33,"Towel Racks"
+3309,33,"Facial Tissue Holders"
+3310,33,"Bath Pillows"
+3311,33,"Soap Dispensers"
+3312,33,"Bathtub Toys"
+3400,34,"Photo Frames"
+3401,34,"Framed Artwork &amp; Prints"
+3402,34,"Photo Albums"
+3403,34,"Photo Displays"
+3500,35,"Candle Holders"
+3501,35,Candles
+3502,35,Incense
+3503,35,Aromatherapy
+3504,35,"Flameless Candles"
+3600,36,"Light Bulbs"
+3601,36,"Lamps &amp; Lighting"
+3602,36,"Clip-on &amp; Book Lights"
+3603,36,Nightlight
+3604,36,"Touch Lights"
+3700,37,"Garden Tools"
+3701,37,"Pots, Planters &amp; Hangers"
+3702,37,"Outdoor Cooking"
+3703,37,"Lawn &amp; Garden Decor"
+3704,37,"Garden Gloves &amp; Apparel"
+4000,40,"Banners &amp; Hanging Decorations"
+4001,40,"Party Invitations"
+4002,40,"Party Napkins"
+4003,40,"Party Plates &amp; Bowls"
+4004,40,Confetti
+4005,40,"Party Favors"
+4006,40,"Party Loot Bags &amp; Boxes"
+4007,40,"Party Table Decorations"
+4008,40,Balloons
+4009,40,"Party Hats"
+4010,40,"Birthday Candles"
+4011,40,"Place Cards"
+4012,40,"Party Cups"
+4013,40,"Party Games"
+4014,40,"Thank You Cards"
+4015,40,"Party Blowers &amp; Noise Makers"
+4016,40,"Party Tablecovers &amp; Placemats"
+4017,40,"Party Signs"
+4018,40,Streamers
+4019,40,"Food Picks &amp; Drink Stirrers"
+4020,40,"Announcement Cards"
+4021,40,"Party Costumes"
+4022,40,"Party Name Tags"
+4023,40,"Party Utensils"
+4024,40,"Party Drink Tags"
+4100,41,"Gift Bags"
+4101,41,"Wrapping Paper"
+4102,41,"Bows &amp; Ribbons"
+4103,41,"Greeting Cards"
+4104,41,"Gift Labels"
+4105,41,"Tissue Paper"
+4106,41,"Gift Boxes"
+4200,42,Christmas
+4201,42,Halloween
+4202,42,"Valentines Day"
+4203,42,Easter
+4204,42,Graduation
+4205,42,"New Years"
+4206,42,Thanksgiving
+4207,42,Hanukkah
+4208,42,"Patriotic &amp; 4th of July"
+4209,42,"St Patricks Day"
+4210,42,"Mardi Gras"
+4211,42,"Mothers &amp; Fathers Day"
+4300,43,"Religious Goods"
+4500,45,"Adult Merchandise"
+4600,46,"Multi-Item Half Pallet"
+4601,46,"Multi-Item Starter Pallet"
+4602,46,"Premium Item Pallet"
+4603,46,"Dump Displays"
+4700,47,Displays
+5000,50,Beads
+5001,50,"Jewelry Making"
+5002,50,"Do-it-yourself Craft Kits"
+5003,50,"Foam Shapes"
+5004,50,Charms
+5005,50,Painting
+5006,50,"Wood Craft Sticks"
+5007,50,Glitter
+5008,50,"Googly Eyes"
+5009,50,Rhinestones
+5010,50,"Drawing &amp; Coloring"
+5011,50,"Craft Containers &amp; Organizers"
+5012,50,"Stencils &amp; Dies"
+5013,50,"Sequins &amp; Spangles"
+5014,50,"Felt Shapes"
+5015,50,"Craft Pins"
+5016,50,"Craft Tools"
+5017,50,"Craft Pipe Cleaners"
+5018,50,"Craft Clothespins"
+5019,50,"Wood Craft Shapes"
+5020,50,Ribbons
+5021,50,"Craft Embellishments"
+5022,50,"Craft Paper &amp; Boards"
+5023,50,"Sand Art &amp; Sea Shells"
+5024,50,"Craft Bells"
+5025,50,"Craft Adhesives"
+5026,50,"Craft Feathers"
+5027,50,"Craft Magnets"
+5028,50,Styrofoam
+5029,50,"Craft Mirrors"
+5030,50,Sculpting
+5100,51,Stickers
+5101,51,Brads
+5102,51,Stamping
+5103,51,"Scrapbook Accents"
+5104,51,Chipboards
+5105,51,Rub-ons
+5106,51,"Scrapbook Kits"
+5107,51,"Vellum Tags"
+5108,51,"Photo Slide Frames"
+5109,51,"Scrapbook Adhesives"
+5110,51,"Scrapbook Overlays"
+5111,51,"Scrapbook Photo Corners"
+5112,51,"Scrapbook Paper"
+5113,51,"Scrapbook Organizers"
+5114,51,"Scrapbook Borders &amp; Trim"
+5200,52,"Fabric &amp; Trim"
+5201,52,"Sewing Kits"
+5202,52,Thread
+5203,52,"Buttons &amp; Fasteners"
+5204,52,"Needles &amp; Needle Sets"
+5205,52,"Safety Pins"
+5206,52,"Sewing Tools"
+5207,52,Yarn
+5208,52,"Pins &amp; Pin Cushions"
+5209,52,"Cross Stitch"
+5500,55,"Writing Instruments"
+5501,55,"Notebooks, Notepads &amp; Paper"
+5502,55,"Classroom Learning Aids"
+5503,55,"Storage Organizers &amp; Filing"
+5504,55,Adhesives
+5505,55,"Paper Clips, Clamps &amp; Punches"
+5506,55,"Push Pins &amp; Tacks"
+5507,55,"Labels &amp; Tags"
+5508,55,Scissors
+5509,55,"Sticky Notes"
+5510,55,"DVD &amp; CD Holders"
+5511,55,"Correction &amp; Erasers"
+5512,55,"Pencil Sharpeners"
+5513,55,"Computer Accessories"
+5514,55,"Staplers &amp; Staples"
+5515,55,"Rulers &amp; Protractors"
+5516,55,"Display Boards"
+5517,55,Books
+5518,55,"Lap Desks"
+5519,55,Calculators
+5520,55,"Magnifying Glasses"
+5521,55,Envelopes
+5522,55,Clipboards
+5523,55,Bookmarks
+5524,55,"Letter Openers"
+5525,55,"Rubber Bands"
+5526,55,"Shipping Supplies"
+5527,55,"Legal Documents"
+5600,56,Components
+5601,56,"Computer Games"
+5602,56,DVDs
+5603,56,Headphones
+5604,56,Cables
+5605,56,Batteries
+5606,56,"Phone Cords"
+5607,56,Fans
+5608,56,Audiobooks
+5609,56,Photography
+5610,56,"Cell Phone Accessories"
+5611,56,"DVD / CD Cleaning"
+5612,56,"Portable Audio Players"
+5613,56,"Blank Media"
+6000,60,"Toy Jewelry"
+6001,60,"Sport Toys"
+6002,60,"Plush Toys"
+6003,60,"Toy Vehicles"
+6004,60,Tattoos
+6005,60,"Novelties &amp; Magic"
+6006,60,"Animal Toys"
+6007,60,"Activity Toys"
+6008,60,"Pretend Play"
+6009,60,"Dolls &amp; Doll Accessories"
+6010,60,"Cooking Toys"
+6011,60,"Educational Toys"
+6012,60,"Beach &amp; Sand Toys"
+6013,60,"Water Guns"
+6014,60,"Toy Weapons"
+6015,60,"Flying Toys"
+6016,60,"Musical Toys"
+6017,60,"Glow In The Dark"
+6018,60,"Water Balloons"
+6019,60,"Action Figures"
+6020,60,"Doll Houses"
+6021,60,"Building Toys"
+6100,61,"Kids Games"
+6101,61,"Playing Cards, Chips &amp; Dice"
+6102,61,"Board Games"
+6103,61,Puzzles
+6104,61,"Tabletop Games"
+6500,65,"Nursing &amp; Feeding"
+6501,65,"Baby Apparel"
+6502,65,"Baby Safety"
+6503,65,"Baby Health"
+6504,65,Diapering
+6600,66,Camping
+6601,66,"Team Sports Equipment"
+6602,66,Cycling
+6603,66,"Indoor Games"
+6604,66,"Air Pumps &amp; Needles"
+6605,66,"Exercise Equipment"
+6606,66,Fishing
+6607,66,Binoculars
+6608,66,Whistles
+6609,66,Golf
+6610,66,"Outdoor Recreation"
+7000,70,Screwdrivers
+7001,70,Locks
+7002,70,"Paint Brushes"
+7003,70,"Measuring &amp; Layout Tools"
+7004,70,Flashlights
+7005,70,"Utility Knives &amp; Blades"
+7006,70,"Putty Knives &amp; Scrapers"
+7007,70,"Painting Rollers &amp; Trays"
+7008,70,"Wire Brushes"
+7009,70,"Spring Clamps"
+7010,70,"Hammers &amp; Mallets"
+7011,70,Sandpaper
+7012,70,"Tool Storage &amp; Organization"
+7013,70,"Saws &amp; Saw Blades"
+7014,70,"Drills &amp; Drill Accessories"
+7015,70,Lanterns
+7016,70,"Drain Augers &amp; Plungers"
+7017,70,Pliers
+7018,70,"Pocket Knives &amp; Sharpeners"
+7019,70,"Hex Keys"
+7020,70,"Painting Accessories"
+7021,70,"Wire &amp; Cable Tools"
+7022,70,"Files &amp; Rasps"
+7023,70,"Sockets &amp; Wrenches"
+7024,70,"Pick Up Tools"
+7025,70,"Industrial Tweezers"
+7026,70,"Step Stools"
+7027,70,"Pry Bars"
+7100,71,Switchplates
+7101,71,"Hardware Adhesives"
+7102,71,"Hooks &amp; Prongs"
+7103,71,"Doors &amp; Windows"
+7104,71,"Tie Downs"
+7105,71,"Latches &amp; Hasps"
+7106,71,Twine
+7107,71,"Industrial Safety"
+7108,71,"Cable Management"
+7109,71,Signs
+7110,71,Nails
+7111,71,Handles
+7112,71,"Work Gloves"
+7113,71,Rope
+7114,71,Plumbing
+7115,71,"Plate Stands &amp; Hangers"
+7116,71,"Mechanics Wire"
+7117,71,Screws
+7118,71,"Hose Clamps"
+7119,71,"Braces &amp; Brackets"
+7120,71,"Electrical Connectors"
+7121,71,Tarps
+7122,71,Hinges
+7123,71,"Wall Anchors"
+7124,71,"Nuts &amp; Bolts"
+7125,71,Washers
+7126,71,"Industrial Fasteners"
+7500,75,"Auto Care &amp; Maintenance"
+7501,75,"Auto Exterior Accessories"
+7502,75,"Auto Interior Accessories"
+7503,75,"Auto Air Fresheners"
+8000,80,"Loofahs &amp; Shower Scrubs"
+8001,80,"Dental Care"
+8002,80,"Facial Tissue"
+8003,80,"Body Wash &amp; Lotion"
+8004,80,"Cotton Swabs"
+8005,80,"Disposable Razors"
+8006,80,"Back Scratchers"
+8007,80,"Hand Sanitizer"
+8008,80,Massagers
+8009,80,"Shower Caps"
+8010,80,"Hand Soap"
+8011,80,"Facial Cleaning Pads"
+8012,80,"Cotton Balls &amp; Squares"
+8100,81,"Hair Bands &amp; Scrunchies"
+8101,81,"Hair Clips"
+8102,81,"Shampoo &amp; Conditioner"
+8103,81,Combs
+8104,81,"Hair Brushes"
+8105,81,Barrettes
+8106,81,"Bobby Pins"
+8107,81,"Electric Hair Trimmers"
+8108,81,"Hair Styling"
+8109,81,"Hair Rollers"
+8110,81,"Cosmetic Scissors"
+8200,82,"Nail Tools"
+8201,82,"Cosmetic Mirrors"
+8202,82,"Lip Makeup"
+8203,82,"Cosmetic Tools &amp; Brushes"
+8204,82,"Eye Makeup"
+8205,82,"Nail Sets"
+8206,82,"Nail Polish"
+8207,82,"Face Makeup"
+8208,82,"Perfume And Cologne"
+8300,83,"Pill Boxes &amp; Splitters"
+8301,83,"Walking Aids"
+8302,83,Bandages
+8303,83,Supports
+8304,83,"Hot &amp; Cold Packs"
+8305,83,"Family Planning"
+8400,84,"Reading Glasses"
+8401,84,"Eyewear Accessories"
+8402,84,Sunglasses
+8500,85,"Pet Toys"
+8501,85,"Collars, Leashes &amp; Harnesses"
+8502,85,"Pet Treats"
+8503,85,"Pet Bowls, Feeders &amp; Waterers"
+8504,85,"Pet Grooming"
+8505,85,"Pet Cleanup"
+8506,85,"Pet Apparel"
+8507,85,"Aquarium Accessories"
+8508,85,"Pet Furniture"
+9900,99,"Deprecated Products"
+9901,99,"Unsellable Products"
+9902,99,"Export Only"
+9999,99,"Uncategorized Products"

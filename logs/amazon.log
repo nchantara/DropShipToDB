@@ -1,0 +1,257 @@
+2014-04-27 17:24:11,788 [main] INFO  com.dropship.extract.DropShipProductExtractor - There are 6 rows in the csv file.
+2014-04-27 17:24:55,043 [main] INFO  com.dropship.extract.DropShipProductExtractor - There are 6 rows in the csv file.
+2014-04-28 04:16:46,819 [main] INFO  com.dropship.extract.DropShipProductExtractor - There are 6 rows in the csv file.
+2014-04-28 04:16:46,824 [main] INFO  com.dropship.extract.DropShipProductExtractor - AA124
+2014-04-28 04:16:46,824 [main] INFO  com.dropship.extract.DropShipProductExtractor - e38f62c3c548617e0ab42cb6a44991e7
+2014-04-28 04:16:46,824 [main] INFO  com.dropship.extract.DropShipProductExtractor - Patriotic dog leash
+2014-04-28 04:16:46,824 [main] INFO  com.dropship.extract.DropShipProductExtractor - The deluxe patriotic dog leash has a fun United States flag design with stars, stripes along with the colors red, white and blue. Leash is made with sturdy nylon and has a metal latch that can be attached to a collar. Has a looped handle for a secure hold. Leash measures 47&quot;, leash clip measures 3 1/4&quot;. Total length is 50 1/4&quot; from end to end. The total width is almost 3/4&quot;.
+2014-04-28 04:16:46,825 [main] INFO  com.dropship.extract.DropShipProductExtractor - import
+2014-04-28 04:16:46,825 [main] INFO  com.dropship.extract.DropShipProductExtractor - duke&#039;s
+2014-04-28 04:16:46,825 [main] INFO  com.dropship.extract.DropShipProductExtractor - white,blue,red
+2014-04-28 04:16:46,825 [main] INFO  com.dropship.extract.DropShipProductExtractor - nylon
+2014-04-28 04:16:46,825 [main] INFO  com.dropship.extract.DropShipProductExtractor - 
+2014-04-28 04:16:46,826 [main] INFO  com.dropship.extract.DropShipProductExtractor - 731015074013
+2014-04-28 04:16:46,826 [main] INFO  com.dropship.extract.DropShipProductExtractor - 0
+2014-04-28 04:16:46,826 [main] INFO  com.dropship.extract.DropShipProductExtractor - 0
+2014-04-28 04:16:46,826 [main] INFO  com.dropship.extract.DropShipProductExtractor - 85
+2014-04-28 04:16:46,827 [main] INFO  com.dropship.extract.DropShipProductExtractor - Pet Supplies
+2014-04-28 04:16:46,827 [main] INFO  com.dropship.extract.DropShipProductExtractor - 8501
+2014-04-28 04:16:46,830 [main] INFO  com.dropship.extract.DropShipProductExtractor - Collars, Leashes &amp; Harnesses
+2014-04-28 04:16:46,830 [main] INFO  com.dropship.extract.DropShipProductExtractor - http://cdn.koleimports.com/images/4x3/small/a/a/AA124.jpg
+2014-04-28 04:16:46,830 [main] INFO  com.dropship.extract.DropShipProductExtractor - http://cdn.koleimports.com/images/4x3/medium/a/a/AA124.jpg
+2014-04-28 04:16:46,831 [main] INFO  com.dropship.extract.DropShipProductExtractor - http://cdn.koleimports.com/images/4x3/large/a/a/AA124.jpg
+2014-04-28 04:16:46,831 [main] INFO  com.dropship.extract.DropShipProductExtractor - 0.1167
+2014-04-28 04:16:46,831 [main] INFO  com.dropship.extract.DropShipProductExtractor - 2014-03-31
+2014-04-28 04:16:46,831 [main] INFO  com.dropship.extract.DropShipProductExtractor - 24
+2014-04-28 04:16:46,831 [main] INFO  com.dropship.extract.DropShipProductExtractor - 23.52
+2014-04-28 04:16:46,831 [main] INFO  com.dropship.extract.DropShipProductExtractor - 48
+2014-04-28 04:16:46,831 [main] INFO  com.dropship.extract.DropShipProductExtractor - 40.32
+2014-04-28 04:16:46,831 [main] INFO  com.dropship.extract.DropShipProductExtractor - 72
+2014-04-28 04:16:46,832 [main] INFO  com.dropship.extract.DropShipProductExtractor - 49.68
+2014-04-28 04:16:46,832 [main] INFO  com.dropship.extract.DropShipProductExtractor - 96
+2014-04-28 04:16:46,832 [main] INFO  com.dropship.extract.DropShipProductExtractor - 66.24
+2014-04-28 04:16:46,832 [main] INFO  com.dropship.extract.DropShipProductExtractor - 144
+2014-04-28 04:16:46,832 [main] INFO  com.dropship.extract.DropShipProductExtractor - 99.36
+2014-04-28 04:16:46,835 [main] INFO  com.dropship.extract.DropShipProductExtractor - 0
+2014-04-28 04:16:46,835 [main] INFO  com.dropship.extract.DropShipProductExtractor - 0
+2014-04-28 04:16:46,835 [main] INFO  com.dropship.extract.DropShipProductExtractor - 0
+2014-04-28 04:16:46,836 [main] INFO  com.dropship.extract.DropShipProductExtractor - AA125
+2014-04-28 04:16:46,836 [main] INFO  com.dropship.extract.DropShipProductExtractor - 42f819cda7aae39375b8a9b8f68955a3
+2014-04-28 04:16:46,836 [main] INFO  com.dropship.extract.DropShipProductExtractor - Patriotic dog collar
+2014-04-28 04:16:46,836 [main] INFO  com.dropship.extract.DropShipProductExtractor - Show off you and your pet&#039;s American pride with this patriotic dog collar. Has a fun red, white and blue design that reflects the look of the United States flag. Collar is made with sturdy nylon and has a plastic side squeeze latch. Has a metal hook so leashes can easily clip on. Comes packaged on a tie card with hanging hole. Collar is adjustable and can expand up to 20&quot; from end to end. Collar is appoximately 3/4&quot; wide.
+2014-04-28 04:16:46,836 [main] INFO  com.dropship.extract.DropShipProductExtractor - import
+2014-04-28 04:16:46,836 [main] INFO  com.dropship.extract.DropShipProductExtractor - duke&#039;s
+2014-04-28 04:16:46,837 [main] INFO  com.dropship.extract.DropShipProductExtractor - white,blue,red
+2014-04-28 04:16:46,837 [main] INFO  com.dropship.extract.DropShipProductExtractor - metal,plastic,nylon
+2014-04-28 04:16:46,837 [main] INFO  com.dropship.extract.DropShipProductExtractor - 
+2014-04-28 04:16:46,837 [main] INFO  com.dropship.extract.DropShipProductExtractor - 731015074020
+2014-04-28 04:16:46,837 [main] INFO  com.dropship.extract.DropShipProductExtractor - 0
+2014-04-28 04:16:46,837 [main] INFO  com.dropship.extract.DropShipProductExtractor - 0
+2014-04-28 04:16:46,837 [main] INFO  com.dropship.extract.DropShipProductExtractor - 85
+2014-04-28 04:16:46,838 [main] INFO  com.dropship.extract.DropShipProductExtractor - Pet Supplies
+2014-04-28 04:16:46,838 [main] INFO  com.dropship.extract.DropShipProductExtractor - 8501
+2014-04-28 04:16:46,838 [main] INFO  com.dropship.extract.DropShipProductExtractor - Collars, Leashes &amp; Harnesses
+2014-04-28 04:16:46,838 [main] INFO  com.dropship.extract.DropShipProductExtractor - http://cdn.koleimports.com/images/4x3/small/a/a/AA125.jpg
+2014-04-28 04:16:46,838 [main] INFO  com.dropship.extract.DropShipProductExtractor - http://cdn.koleimports.com/images/4x3/medium/a/a/AA125.jpg
+2014-04-28 04:16:46,838 [main] INFO  com.dropship.extract.DropShipProductExtractor - http://cdn.koleimports.com/images/4x3/large/a/a/AA125.jpg
+2014-04-28 04:16:46,839 [main] INFO  com.dropship.extract.DropShipProductExtractor - 0.1150
+2014-04-28 04:16:46,839 [main] INFO  com.dropship.extract.DropShipProductExtractor - 2014-03-19
+2014-04-28 04:16:46,839 [main] INFO  com.dropship.extract.DropShipProductExtractor - 24
+2014-04-28 04:16:46,839 [main] INFO  com.dropship.extract.DropShipProductExtractor - 22.56
+2014-04-28 04:16:46,839 [main] INFO  com.dropship.extract.DropShipProductExtractor - 48
+2014-04-28 04:16:46,840 [main] INFO  com.dropship.extract.DropShipProductExtractor - 38.40
+2014-04-28 04:16:46,840 [main] INFO  com.dropship.extract.DropShipProductExtractor - 72
+2014-04-28 04:16:46,840 [main] INFO  com.dropship.extract.DropShipProductExtractor - 46.80
+2014-04-28 04:16:46,840 [main] INFO  com.dropship.extract.DropShipProductExtractor - 96
+2014-04-28 04:16:46,840 [main] INFO  com.dropship.extract.DropShipProductExtractor - 62.40
+2014-04-28 04:16:46,843 [main] INFO  com.dropship.extract.DropShipProductExtractor - 144
+2014-04-28 04:16:46,844 [main] INFO  com.dropship.extract.DropShipProductExtractor - 93.60
+2014-04-28 04:16:46,844 [main] INFO  com.dropship.extract.DropShipProductExtractor - 0
+2014-04-28 04:16:46,844 [main] INFO  com.dropship.extract.DropShipProductExtractor - 0
+2014-04-28 04:16:46,844 [main] INFO  com.dropship.extract.DropShipProductExtractor - 0
+2014-04-28 04:16:46,844 [main] INFO  com.dropship.extract.DropShipProductExtractor - AA140
+2014-04-28 04:16:46,844 [main] INFO  com.dropship.extract.DropShipProductExtractor - bad04dff1de2c31ba10b2535a009f7b4
+2014-04-28 04:16:46,845 [main] INFO  com.dropship.extract.DropShipProductExtractor - Patriotic Auto Flag
+2014-04-28 04:16:46,845 [main] INFO  com.dropship.extract.DropShipProductExtractor - Great for Independence Day, Memorial Day or all year long - this patriotic auto flag easily mounts to car windows. Comes packaged loose with a hang tag. Nylon flag measures 19&quot; x 11 1/4&quot;. The sturdy plastic window mount is 17 1/2&quot; long.
+2014-04-28 04:16:46,845 [main] INFO  com.dropship.extract.DropShipProductExtractor - import
+2014-04-28 04:16:46,845 [main] INFO  com.dropship.extract.DropShipProductExtractor - bulk buys
+2014-04-28 04:16:46,845 [main] INFO  com.dropship.extract.DropShipProductExtractor - white,blue,red
+2014-04-28 04:16:46,845 [main] INFO  com.dropship.extract.DropShipProductExtractor - plastic,nylon
+2014-04-28 04:16:46,845 [main] INFO  com.dropship.extract.DropShipProductExtractor - 
+2014-04-28 04:16:46,845 [main] INFO  com.dropship.extract.DropShipProductExtractor - 731015076680
+2014-04-28 04:16:46,845 [main] INFO  com.dropship.extract.DropShipProductExtractor - 0
+2014-04-28 04:16:46,845 [main] INFO  com.dropship.extract.DropShipProductExtractor - 0
+2014-04-28 04:16:46,845 [main] INFO  com.dropship.extract.DropShipProductExtractor - 42
+2014-04-28 04:16:46,845 [main] INFO  com.dropship.extract.DropShipProductExtractor - Seasonal
+2014-04-28 04:16:46,845 [main] INFO  com.dropship.extract.DropShipProductExtractor - 4208
+2014-04-28 04:16:46,846 [main] INFO  com.dropship.extract.DropShipProductExtractor - Patriotic &amp; 4th of July
+2014-04-28 04:16:46,846 [main] INFO  com.dropship.extract.DropShipProductExtractor - http://cdn.koleimports.com/images/4x3/small/a/a/AA140.jpg
+2014-04-28 04:16:46,846 [main] INFO  com.dropship.extract.DropShipProductExtractor - http://cdn.koleimports.com/images/4x3/medium/a/a/AA140.jpg
+2014-04-28 04:16:46,846 [main] INFO  com.dropship.extract.DropShipProductExtractor - http://cdn.koleimports.com/images/4x3/large/a/a/AA140.jpg
+2014-04-28 04:16:46,846 [main] INFO  com.dropship.extract.DropShipProductExtractor - 0.1615
+2014-04-28 04:16:46,846 [main] INFO  com.dropship.extract.DropShipProductExtractor - 2014-03-20
+2014-04-28 04:16:46,846 [main] INFO  com.dropship.extract.DropShipProductExtractor - 24
+2014-04-28 04:16:46,846 [main] INFO  com.dropship.extract.DropShipProductExtractor - 22.56
+2014-04-28 04:16:46,846 [main] INFO  com.dropship.extract.DropShipProductExtractor - 48
+2014-04-28 04:16:46,846 [main] INFO  com.dropship.extract.DropShipProductExtractor - 38.40
+2014-04-28 04:16:46,846 [main] INFO  com.dropship.extract.DropShipProductExtractor - 72
+2014-04-28 04:16:46,846 [main] INFO  com.dropship.extract.DropShipProductExtractor - 46.80
+2014-04-28 04:16:46,846 [main] INFO  com.dropship.extract.DropShipProductExtractor - 96
+2014-04-28 04:16:46,847 [main] INFO  com.dropship.extract.DropShipProductExtractor - 62.40
+2014-04-28 04:16:46,847 [main] INFO  com.dropship.extract.DropShipProductExtractor - 144
+2014-04-28 04:16:46,847 [main] INFO  com.dropship.extract.DropShipProductExtractor - 93.60
+2014-04-28 04:16:46,847 [main] INFO  com.dropship.extract.DropShipProductExtractor - 0
+2014-04-28 04:16:46,847 [main] INFO  com.dropship.extract.DropShipProductExtractor - 0
+2014-04-28 04:16:46,847 [main] INFO  com.dropship.extract.DropShipProductExtractor - 0
+2014-04-28 04:16:46,847 [main] INFO  com.dropship.extract.DropShipProductExtractor - AB006
+2014-04-28 04:16:46,847 [main] INFO  com.dropship.extract.DropShipProductExtractor - 225f31536725cba97891b852acee9481
+2014-04-28 04:16:46,847 [main] INFO  com.dropship.extract.DropShipProductExtractor - Sandpaper value pack
+2014-04-28 04:16:46,847 [main] INFO  com.dropship.extract.DropShipProductExtractor - The sandpaper pack is perfect for sanding metal, wood and painted surfaces. Each package comes with 10 sheets of 8&quot; x 10&quot; sandpaper. Sandpaper is medium grit. Great for home or industrial use. Comes packaged in a hanging panel with butterfly hole.
+2014-04-28 04:16:46,847 [main] INFO  com.dropship.extract.DropShipProductExtractor - import
+2014-04-28 04:16:46,847 [main] INFO  com.dropship.extract.DropShipProductExtractor - sterling
+2014-04-28 04:16:46,847 [main] INFO  com.dropship.extract.DropShipProductExtractor - brown
+2014-04-28 04:16:46,847 [main] INFO  com.dropship.extract.DropShipProductExtractor - paper
+2014-04-28 04:16:46,847 [main] INFO  com.dropship.extract.DropShipProductExtractor - 
+2014-04-28 04:16:46,848 [main] INFO  com.dropship.extract.DropShipProductExtractor - 731015129652
+2014-04-28 04:16:46,848 [main] INFO  com.dropship.extract.DropShipProductExtractor - 5000
+2014-04-28 04:16:46,848 [main] INFO  com.dropship.extract.DropShipProductExtractor - 0
+2014-04-28 04:16:46,848 [main] INFO  com.dropship.extract.DropShipProductExtractor - 70
+2014-04-28 04:16:46,848 [main] INFO  com.dropship.extract.DropShipProductExtractor - Tools
+2014-04-28 04:16:46,848 [main] INFO  com.dropship.extract.DropShipProductExtractor - 7011
+2014-04-28 04:16:46,848 [main] INFO  com.dropship.extract.DropShipProductExtractor - Sandpaper
+2014-04-28 04:16:46,848 [main] INFO  com.dropship.extract.DropShipProductExtractor - http://cdn.koleimports.com/images/4x3/small/a/b/AB006.jpg
+2014-04-28 04:16:46,848 [main] INFO  com.dropship.extract.DropShipProductExtractor - http://cdn.koleimports.com/images/4x3/medium/a/b/AB006.jpg
+2014-04-28 04:16:46,848 [main] INFO  com.dropship.extract.DropShipProductExtractor - http://cdn.koleimports.com/images/4x3/large/a/b/AB006.jpg
+2014-04-28 04:16:46,848 [main] INFO  com.dropship.extract.DropShipProductExtractor - 0.4030
+2014-04-28 04:16:46,848 [main] INFO  com.dropship.extract.DropShipProductExtractor - 2014-04-04
+2014-04-28 04:16:46,848 [main] INFO  com.dropship.extract.DropShipProductExtractor - 25
+2014-04-28 04:16:46,848 [main] INFO  com.dropship.extract.DropShipProductExtractor - 21.75
+2014-04-28 04:16:46,848 [main] INFO  com.dropship.extract.DropShipProductExtractor - 0
+2014-04-28 04:16:46,848 [main] INFO  com.dropship.extract.DropShipProductExtractor - 0
+2014-04-28 04:16:46,851 [main] INFO  com.dropship.extract.DropShipProductExtractor - 0
+2014-04-28 04:16:46,851 [main] INFO  com.dropship.extract.DropShipProductExtractor - 0
+2014-04-28 04:16:46,851 [main] INFO  com.dropship.extract.DropShipProductExtractor - 0
+2014-04-28 04:16:46,851 [main] INFO  com.dropship.extract.DropShipProductExtractor - 0
+2014-04-28 04:16:46,851 [main] INFO  com.dropship.extract.DropShipProductExtractor - 50
+2014-04-28 04:16:46,851 [main] INFO  com.dropship.extract.DropShipProductExtractor - 36.50
+2014-04-28 04:16:46,851 [main] INFO  com.dropship.extract.DropShipProductExtractor - 0
+2014-04-28 04:16:46,851 [main] INFO  com.dropship.extract.DropShipProductExtractor - 0
+2014-04-28 04:16:46,851 [main] INFO  com.dropship.extract.DropShipProductExtractor - 0
+2014-04-28 04:16:46,852 [main] INFO  com.dropship.extract.DropShipProductExtractor - AB033
+2014-04-28 04:16:46,852 [main] INFO  com.dropship.extract.DropShipProductExtractor - 90338618342c1dc4a2fe74a48bf158c0
+2014-04-28 04:16:46,852 [main] INFO  com.dropship.extract.DropShipProductExtractor - Wood handle paint brush set
+2014-04-28 04:16:46,852 [main] INFO  com.dropship.extract.DropShipProductExtractor - This 3 pack of paint brushes have red painted handles made with contoured wood. Perfect for home or industrial use. Nylon bristles hold paint for a smooth finish. Brushes come in three assorted sizes. These are packaged in a poly bag with header card. Brush sizes are 1/2&quot;, 3/4&quot; and 1 7/8&quot;.
+2014-04-28 04:16:46,852 [main] INFO  com.dropship.extract.DropShipProductExtractor - import
+2014-04-28 04:16:46,852 [main] INFO  com.dropship.extract.DropShipProductExtractor - sterling
+2014-04-28 04:16:46,852 [main] INFO  com.dropship.extract.DropShipProductExtractor - black,red,silver
+2014-04-28 04:16:46,852 [main] INFO  com.dropship.extract.DropShipProductExtractor - metal,nylon,wood
+2014-04-28 04:16:46,852 [main] INFO  com.dropship.extract.DropShipProductExtractor - 
+2014-04-28 04:16:46,852 [main] INFO  com.dropship.extract.DropShipProductExtractor - 731015006625
+2014-04-28 04:16:46,852 [main] INFO  com.dropship.extract.DropShipProductExtractor - 2581
+2014-04-28 04:16:46,852 [main] INFO  com.dropship.extract.DropShipProductExtractor - 0
+2014-04-28 04:16:46,852 [main] INFO  com.dropship.extract.DropShipProductExtractor - 70
+2014-04-28 04:16:46,853 [main] INFO  com.dropship.extract.DropShipProductExtractor - Tools
+2014-04-28 04:16:46,853 [main] INFO  com.dropship.extract.DropShipProductExtractor - 7002
+2014-04-28 04:16:46,853 [main] INFO  com.dropship.extract.DropShipProductExtractor - Paint Brushes
+2014-04-28 04:16:46,853 [main] INFO  com.dropship.extract.DropShipProductExtractor - http://cdn.koleimports.com/images/4x3/small/a/b/AB033.jpg
+2014-04-28 04:16:46,853 [main] INFO  com.dropship.extract.DropShipProductExtractor - http://cdn.koleimports.com/images/4x3/medium/a/b/AB033.jpg
+2014-04-28 04:16:46,853 [main] INFO  com.dropship.extract.DropShipProductExtractor - http://cdn.koleimports.com/images/4x3/large/a/b/AB033.jpg
+2014-04-28 04:16:46,853 [main] INFO  com.dropship.extract.DropShipProductExtractor - 0.1190
+2014-04-28 04:16:46,853 [main] INFO  com.dropship.extract.DropShipProductExtractor - 2014-03-28
+2014-04-28 04:16:46,853 [main] INFO  com.dropship.extract.DropShipProductExtractor - 24
+2014-04-28 04:16:46,853 [main] INFO  com.dropship.extract.DropShipProductExtractor - 20.16
+2014-04-28 04:16:46,853 [main] INFO  com.dropship.extract.DropShipProductExtractor - 48
+2014-04-28 04:16:46,853 [main] INFO  com.dropship.extract.DropShipProductExtractor - 33.60
+2014-04-28 04:16:46,853 [main] INFO  com.dropship.extract.DropShipProductExtractor - 72
+2014-04-28 04:16:46,853 [main] INFO  com.dropship.extract.DropShipProductExtractor - 46.80
+2014-04-28 04:16:46,853 [main] INFO  com.dropship.extract.DropShipProductExtractor - 96
+2014-04-28 04:16:46,853 [main] INFO  com.dropship.extract.DropShipProductExtractor - 52.80
+2014-04-28 04:16:46,854 [main] INFO  com.dropship.extract.DropShipProductExtractor - 120
+2014-04-28 04:16:46,854 [main] INFO  com.dropship.extract.DropShipProductExtractor - 66.00
+2014-04-28 04:16:46,854 [main] INFO  com.dropship.extract.DropShipProductExtractor - 0
+2014-04-28 04:16:46,854 [main] INFO  com.dropship.extract.DropShipProductExtractor - 0
+2014-04-28 04:16:46,854 [main] INFO  com.dropship.extract.DropShipProductExtractor - 0
+2014-04-28 04:46:55,990 [main] INFO  com.lokivog.mws.dao.DAOManager - opening connection for database: jdbc:postgresql://192.168.1.108/amazon
+2014-04-28 04:47:17,057 [main] ERROR com.lokivog.mws.dao.DAOManager - Error getting connection for: db.url: jdbc:postgresql://192.168.1.108/amazon, db.username: amazon, driver: org.postgresql.Driver
+org.postgresql.util.PSQLException: Connection refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:136) ~[postgresql-9.1-903.jdbc4.jar:na]
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:64) ~[postgresql-9.1-903.jdbc4.jar:na]
+	at org.postgresql.jdbc2.AbstractJdbc2Connection.<init>(AbstractJdbc2Connection.java:123) ~[postgresql-9.1-903.jdbc4.jar:na]
+	at org.postgresql.jdbc3.AbstractJdbc3Connection.<init>(AbstractJdbc3Connection.java:28) ~[postgresql-9.1-903.jdbc4.jar:na]
+	at org.postgresql.jdbc3g.AbstractJdbc3gConnection.<init>(AbstractJdbc3gConnection.java:20) ~[postgresql-9.1-903.jdbc4.jar:na]
+	at org.postgresql.jdbc4.AbstractJdbc4Connection.<init>(AbstractJdbc4Connection.java:30) ~[postgresql-9.1-903.jdbc4.jar:na]
+	at org.postgresql.jdbc4.Jdbc4Connection.<init>(Jdbc4Connection.java:22) ~[postgresql-9.1-903.jdbc4.jar:na]
+	at org.postgresql.Driver.makeConnection(Driver.java:391) ~[postgresql-9.1-903.jdbc4.jar:na]
+	at org.postgresql.Driver.connect(Driver.java:265) ~[postgresql-9.1-903.jdbc4.jar:na]
+	at java.sql.DriverManager.getConnection(DriverManager.java:571) ~[na:1.7.0_51]
+	at java.sql.DriverManager.getConnection(DriverManager.java:215) ~[na:1.7.0_51]
+	at com.lokivog.mws.dao.DAOManager.initDBConnection(DAOManager.java:54) ~[bin/:na]
+	at com.dropship.extract.DropShipProductExtractor.main(DropShipProductExtractor.java:31) [bin/:na]
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method) ~[na:1.7.0_51]
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79) ~[na:1.7.0_51]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339) ~[na:1.7.0_51]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200) ~[na:1.7.0_51]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182) ~[na:1.7.0_51]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172) ~[na:1.7.0_51]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[na:1.7.0_51]
+	at java.net.Socket.connect(Socket.java:579) ~[na:1.7.0_51]
+	at java.net.Socket.connect(Socket.java:528) ~[na:1.7.0_51]
+	at java.net.Socket.<init>(Socket.java:425) ~[na:1.7.0_51]
+	at java.net.Socket.<init>(Socket.java:208) ~[na:1.7.0_51]
+	at org.postgresql.core.PGStream.<init>(PGStream.java:60) ~[postgresql-9.1-903.jdbc4.jar:na]
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:74) ~[postgresql-9.1-903.jdbc4.jar:na]
+	... 12 common frames omitted
+2014-05-03 00:17:03,291 [main] INFO  com.lokivog.mws.dao.DAOManager - opening connection for database: jdbc:postgresql://192.168.1.108/amazon
+2014-05-03 00:17:24,344 [main] ERROR com.lokivog.mws.dao.DAOManager - Error getting connection for: db.url: jdbc:postgresql://192.168.1.108/amazon, db.username: amazon, driver: org.postgresql.Driver
+org.postgresql.util.PSQLException: Connection refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:136) ~[postgresql-9.1-903.jdbc4.jar:na]
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:64) ~[postgresql-9.1-903.jdbc4.jar:na]
+	at org.postgresql.jdbc2.AbstractJdbc2Connection.<init>(AbstractJdbc2Connection.java:123) ~[postgresql-9.1-903.jdbc4.jar:na]
+	at org.postgresql.jdbc3.AbstractJdbc3Connection.<init>(AbstractJdbc3Connection.java:28) ~[postgresql-9.1-903.jdbc4.jar:na]
+	at org.postgresql.jdbc3g.AbstractJdbc3gConnection.<init>(AbstractJdbc3gConnection.java:20) ~[postgresql-9.1-903.jdbc4.jar:na]
+	at org.postgresql.jdbc4.AbstractJdbc4Connection.<init>(AbstractJdbc4Connection.java:30) ~[postgresql-9.1-903.jdbc4.jar:na]
+	at org.postgresql.jdbc4.Jdbc4Connection.<init>(Jdbc4Connection.java:22) ~[postgresql-9.1-903.jdbc4.jar:na]
+	at org.postgresql.Driver.makeConnection(Driver.java:391) ~[postgresql-9.1-903.jdbc4.jar:na]
+	at org.postgresql.Driver.connect(Driver.java:265) ~[postgresql-9.1-903.jdbc4.jar:na]
+	at java.sql.DriverManager.getConnection(DriverManager.java:571) ~[na:1.7.0_51]
+	at java.sql.DriverManager.getConnection(DriverManager.java:215) ~[na:1.7.0_51]
+	at com.lokivog.mws.dao.DAOManager.initDBConnection(DAOManager.java:54) ~[bin/:na]
+	at com.dropship.extract.DropShipProductExtractor.main(DropShipProductExtractor.java:31) [bin/:na]
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method) ~[na:1.7.0_51]
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79) ~[na:1.7.0_51]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339) ~[na:1.7.0_51]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200) ~[na:1.7.0_51]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182) ~[na:1.7.0_51]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172) ~[na:1.7.0_51]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[na:1.7.0_51]
+	at java.net.Socket.connect(Socket.java:579) ~[na:1.7.0_51]
+	at java.net.Socket.connect(Socket.java:528) ~[na:1.7.0_51]
+	at java.net.Socket.<init>(Socket.java:425) ~[na:1.7.0_51]
+	at java.net.Socket.<init>(Socket.java:208) ~[na:1.7.0_51]
+	at org.postgresql.core.PGStream.<init>(PGStream.java:60) ~[postgresql-9.1-903.jdbc4.jar:na]
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:74) ~[postgresql-9.1-903.jdbc4.jar:na]
+	... 12 common frames omitted
+2014-05-03 01:34:26,005 [main] INFO  com.lokivog.mws.dao.DAOManager - opening connection for database: jdbc:hsqldb:hsqlTempFiles;shutdown=true;
+2014-05-03 01:34:26,800 [main] INFO  com.dropship.extract.DropShipProductExtractor - There are 6 rows in the csv file.
+2014-05-03 01:59:32,008 [main] INFO  com.lokivog.mws.dao.DAOManager - opening connection for database: jdbc:postgresql://localhost/postgres
+2014-05-03 01:59:32,105 [main] INFO  com.dropship.extract.DropShipProductExtractor - There are 6 rows in the csv file.
+2014-05-03 02:00:16,052 [main] INFO  com.lokivog.mws.dao.DAOManager - opening connection for database: jdbc:postgresql://localhost/postgres
+2014-05-03 02:00:16,153 [main] INFO  com.lokivog.mws.dao.DAOManager - Drop table: ds_kole_imports
+2014-05-03 02:00:16,179 [main] INFO  com.lokivog.mws.dao.DAOManager - Created table: ds_kole_imports
+2014-05-03 02:00:16,190 [main] INFO  com.dropship.extract.DropShipProductExtractor - There are 6 rows in the csv file.
+2014-05-03 02:00:16,213 [main] INFO  com.dropship.extract.DropShipProductExtractor - add item
+2014-05-03 02:00:16,215 [main] INFO  com.dropship.extract.DropShipProductExtractor - add item
+2014-05-03 02:00:16,216 [main] INFO  com.dropship.extract.DropShipProductExtractor - add item
+2014-05-03 02:00:16,218 [main] INFO  com.dropship.extract.DropShipProductExtractor - add item
+2014-05-03 02:00:16,219 [main] INFO  com.dropship.extract.DropShipProductExtractor - add item
+2014-05-03 02:00:16,228 [main] INFO  com.lokivog.mws.dao.DAOManager - Closing connection to database for session: [SS 1.KoleManager]
+2014-05-03 02:09:19,144 [main] INFO  com.lokivog.mws.dao.DAOManager - opening connection for database: jdbc:postgresql://localhost/postgres
+2014-05-03 02:09:19,244 [main] INFO  com.dropship.extract.DropShipProductExtractor - There are 6 rows in the csv file.
+2014-05-03 02:09:19,283 [main] INFO  com.dropship.extract.DropShipProductExtractor - update item
+2014-05-03 02:09:19,285 [main] INFO  com.dropship.extract.DropShipProductExtractor - update item
+2014-05-03 02:09:19,287 [main] INFO  com.dropship.extract.DropShipProductExtractor - update item
+2014-05-03 02:09:19,290 [main] INFO  com.dropship.extract.DropShipProductExtractor - update item
+2014-05-03 02:09:19,291 [main] INFO  com.dropship.extract.DropShipProductExtractor - update item
+2014-05-03 02:09:19,293 [main] INFO  com.lokivog.mws.dao.DAOManager - Closing connection to database for session: [SS 1.KoleManager]
